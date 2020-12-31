@@ -8,12 +8,6 @@ In this challenge, you will use advanced queries and joins to create a list of c
 
 
 # Results
-
-### Number of Individuals Retiring: 41,380
-### Number of Individuals available for the mentorship role: 1,549
-
-
-# In Conclusion
 ![](pictures/SCP1.png)
 
 ![](/pictures/ExcelSC.png)
@@ -21,3 +15,14 @@ In this challenge, you will use advanced queries and joins to create a list of c
 ![](pictures/SCP2.png)
 
 ![](pictures/SCP3.png)
+
+### Number of Individuals Retiring: 41,380
+### Number of Individuals available for the mentorship role: 1,549
+
+
+# In Conclusion
+
+![](pictures/quaries.png)
+
+![](pictures/quaries2.png)
+
