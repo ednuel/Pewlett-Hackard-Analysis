@@ -14,7 +14,10 @@ In this challenge, you will use advanced queries and joins to create a list of c
 
 
 # In Conclusion
-![](/SCP1.png)
+![](pictures/SCP1.png)
+
 ![](/pictures/ExcelSC.png)
-![](/SCP2.png)
-![](/SCP3.png)
+
+![](pictures/SCP2.png)
+
+![](pictures/SCP3.png)
